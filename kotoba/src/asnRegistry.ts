@@ -17,7 +17,7 @@
  * Remaining 35 commands (registerPrefix / registerProvider /
  * registerScan / collectGeoip / collectWhois / batchIngestRir / etc.)
  * follow the same pattern and are deferred to follow-up slices —
- * see CLAUDE.md authority-chain hierarchy for the full surface.
+ * see AGENTS.md authority-chain hierarchy for the full surface.
  */
 
 import type { Etzhayyim } from "@etzhayyim/sdk";
