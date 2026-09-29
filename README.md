@@ -5,7 +5,7 @@ etzhayyim substrate（AT Protocol PDS）へ**書き込む**経路である。** 
 コマンドを純粋な TypeScript 関数として持つ `kotoba/` と、それを Cloudflare Worker
 の XRPC エンドポイントとして露出する `xrpc-adapter/` の 2 パッケージからなる。
 
-名前が機能を示さないので冒頭で名乗る（CLAUDE.md「名前が機能を示さない repo を
+名前が機能を示さないので冒頭で名乗る（AGENTS.md「名前が機能を示さない repo を
 作ったら、README の冒頭で名乗る」）。`ipaddress` という bare 名は主題だけを言って
 おり、「何をする repo か」——**書き込み経路である**こと——は名前から読めない。
 

@@ -10,7 +10,7 @@
  *   collectWhois  — calls external whois, then registerAsn({...,abuse*})
  *
  * Both fields use permille for lat/lon to satisfy the AT Lexicon
- * no-float restriction per root CLAUDE.md.
+ * no-float restriction per root AGENTS.md.
  */
 
 import type { Etzhayyim } from "@etzhayyim/sdk";

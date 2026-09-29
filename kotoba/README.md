@@ -34,7 +34,7 @@ LangServer pod XRPC handler is the next operator task per ADR-2605203000.
 | `db.selectFrom("vertex_ip_asn").where("number","=",n).execute()` | `e.read({ collection, rkey: \`asn-${n}\` })` |
 | Duplicate check via `.where(...).limit(1)` | rkey-direct read returns `notFound` if missing |
 
-## Authority-chain DIDs (per ipaddress CLAUDE.md)
+## Authority-chain DIDs (per ipaddress AGENTS.md)
 
 ipaddress mints path-based DIDs in a 6-tier authority chain:
 

@@ -6,7 +6,7 @@
  * are still `x-bootstrap` stubs; tightening follows in the next slice
  * alongside more command ports.
  *
- * Identity hierarchy (per CLAUDE.md authority-chain):
+ * Identity hierarchy (per AGENTS.md authority-chain):
  *   did:web:ipaddress.etzhayyim.com                — controller
  *   did:web:ipaddress.etzhayyim.com:rir:{rir}      — RIR (apnic/arin/ripe/lacnic/afrinic)
  *   did:web:ipaddress.etzhayyim.com:nir:{cc}       — NIR (jpnic/cnnic/krnic/etc)
